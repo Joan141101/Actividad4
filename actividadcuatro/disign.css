@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(7, 218, 119);
+}
+
+nav{
+    height: auto;
+    width: auto;
+    background-color: white;
+}
+
+.portada{
+    padding: 5px;
+
+}
